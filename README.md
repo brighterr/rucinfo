@@ -10,8 +10,6 @@ Rucinfo Hub 是由同学共同建设的人大信息共享计划，汇集学习�
 
 ---
 
-以下「平台」「贡献」两节原文引自 [Salensoft/thu-cst-cracker（清华大学计算机系课程攻略）](https://github.com/Salensoft/thu-cst-cracker)，遵循其 CC BY-NC-SA 4.0 许可。
-
 ## 平台
 
 为什么采用 GitHub 项目作为平台呢？我有以下一些考虑。
