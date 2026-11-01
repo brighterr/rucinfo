@@ -1,4 +1,4 @@
-# 人大信息共享计划 Rucinfo Hub
+# Rucinfo Hub 人大信息共享计划 
 
 本项目正在不断更新中！
 
