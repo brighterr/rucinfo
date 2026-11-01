@@ -58,6 +58,12 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 3.2 或者也可以直接附加在 Issue 中，由维护者进行添加。
 
+## 加入我们
+
+欢迎扫码加入 Rucinfo Hub 微信群，一起交流、分享与共建。
+
+<img src="./assets/rucinfo-hub-wechat.jpg" alt="Rucinfo Hub 微信群二维码" width="360" />
+
 ## 许可
 
 由贡献者编写部分的许可如下：
