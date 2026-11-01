@@ -60,7 +60,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 ## 加入我们
 
-欢迎加入Rucinfo Hub，进群请实名，注明年级-姓名 ，本群偏向学术/经验分享性质，为较低年级同学解答问题，共建Rucinfo Hub
+欢迎加入Rucinfo Hub，进群请实名，注明年级-姓名 ，本群偏向学术/经验分享性质，为较低年级同学解答问题，共建Rucinfo Hub，谢绝无效内容
 
 <img src="./assets/rucinfo-hub-wechat.png" alt="Rucinfo Hub 微信群二维码" width="360" />
 
