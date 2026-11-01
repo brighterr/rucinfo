@@ -2,8 +2,6 @@
 
 人大信息共享计划
 
-受[浙江大学相关项目](https://github.com/QSCTech/zju-icicles)启发，创立了本项目。
-
 ## 关于本仓库
 
 Rucinfo Hub 是由同学共同建设的人大信息共享计划，汇集学习笔记、技术博客与课程资料。
@@ -61,3 +59,5 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 > 资料仅供参考，请自己判断其适用性。
 
 其他部分的版权归属于其各自的作者。
+
+本项目受到[浙江大学相关项目](https://github.com/QSCTech/zju-icicles)和[清华大学相关项目](https://github.com/Salensoft/thu-cst-cracker)启发。
