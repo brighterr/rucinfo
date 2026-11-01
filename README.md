@@ -60,9 +60,9 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 ## 加入我们
 
-欢迎扫码加入 Rucinfo Hub 微信群，一起交流、分享与共建。
+进群请实名，注明年级-姓名。
 
-<img src="./assets/rucinfo-hub-wechat.jpg" alt="Rucinfo Hub 微信群二维码" width="360" />
+<img src="./assets/rucinfo-hub-wechat.png" alt="Rucinfo Hub 微信群二维码" width="360" />
 
 ## 许可
 
